@@ -14,25 +14,15 @@ Upstream repo at https://github.com/joeldenning/angular__platform-browser-dynami
 
 ### @angular/platform-browser-dynamic
 
-#### ES2015
+#### ES2022
 
-https://cdn.jsdelivr.net/npm/@esm-bundle/angular__platform-browser-dynamic/system/es2015/ivy/angular-platform-browser-dynamic.js
+https://cdn.jsdelivr.net/npm/@esm-bundle/angular__platform-browser-dynamic/system/es2022/ivy/angular-platform-browser-dynamic.js
 
-https://cdn.jsdelivr.net/npm/@esm-bundle/angular__platform-browser-dynamic/system/es2015/ivy/angular-platform-browser-dynamic.min.js
+https://cdn.jsdelivr.net/npm/@esm-bundle/angular__platform-browser-dynamic/system/es2022/ivy/angular-platform-browser-dynamic.min.js
 
-https://unpkg.com/@esm-bundle/angular__platform-browser-dynamic/system/es2015/ivy/angular-platform-browser-dynamic.js
+https://unpkg.com/@esm-bundle/angular__platform-browser-dynamic/system/es2022/ivy/angular-platform-browser-dynamic.js
 
-https://unpkg.com/@esm-bundle/angular__platform-browser-dynamic/system/es2015/ivy/angular-platform-browser-dynamic.min.js
-
-#### ES2020
-
-https://cdn.jsdelivr.net/npm/@esm-bundle/angular__platform-browser-dynamic/system/es2020/ivy/angular-platform-browser-dynamic.js
-
-https://cdn.jsdelivr.net/npm/@esm-bundle/angular__platform-browser-dynamic/system/es2020/ivy/angular-platform-browser-dynamic.min.js
-
-https://unpkg.com/@esm-bundle/angular__platform-browser-dynamic/system/es2020/ivy/angular-platform-browser-dynamic.js
-
-https://unpkg.com/@esm-bundle/angular__platform-browser-dynamic/system/es2020/ivy/angular-platform-browser-dynamic.min.js
+https://unpkg.com/@esm-bundle/angular__platform-browser-dynamic/system/es2022/ivy/angular-platform-browser-dynamic.min.js
 
 ## Specific Version
 
